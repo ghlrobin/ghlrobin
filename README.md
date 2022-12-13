@@ -1,3 +1,5 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ghlrobin">
+
 - Hi, I’m Gang Hyeok (Robin)
 - I’m interested in NLP
 - I’m currently learning ML in boostcamp AI Tech Program (09.2022 ~ 02.2023)
